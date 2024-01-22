@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Software Development
 - 🌱 I’m currently learning ...Front End Development
 - 💞️ I’m looking to collaborate on ...Responsive Web development Projects
-- 📫 How to reach me ...via eamil: richaebeb@gmail.com
+- 📫 How to reach me ...via email: richaebeb@gmail.com
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...
 
